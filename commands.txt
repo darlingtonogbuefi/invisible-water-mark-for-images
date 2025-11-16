@@ -1,2 +1,0 @@
-encode cmd: python watermark.py encode   input.jpeg   output.jpeg   "MySecret"
-decode cmd: python watermark.py decode AWS_EKS_ElasticCloud_wm.jpeg
